@@ -12,7 +12,7 @@ import org.lwjgl.opengl.*;
 public class Square {
 
     // Variables
-    public static final double SIZE = 10;
+    public static final double SIZE = 12;
     private Location location;
 
     // Accessors, Mutators
